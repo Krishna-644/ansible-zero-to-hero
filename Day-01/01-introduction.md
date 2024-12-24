@@ -1,6 +1,6 @@
 # Introduction to Ansible
 # Dec 24 checin
-#check back
+# check back
 
 ## What is Ansible ?
 
